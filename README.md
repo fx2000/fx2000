@@ -1,4 +1,4 @@
-![Flipping ascii tables](https://i.kym-cdn.com/photos/images/newsfeed/000/294/231/2f9.gif)
+<img align='right' src='https://i.kym-cdn.com/photos/images/newsfeed/000/294/231/2f9.gif' width='300"'>
 ### Hi there 👋, I'm Daniel  
   
 After years of running my fair share of startups, I decided to transition out of Product Manager/Owner roles and into more tech-oriented roles that allowed me to continue on my coding journey. I am a Full Stack Developer currently working at [niikiis](http://www.niikiis.com) with JavaScript Technologies across the whole stack, specialized in Front End Development using React.
