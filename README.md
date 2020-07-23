@@ -11,7 +11,7 @@ If you want to know more about me, you can check out my [Twitter](https://twitte
 * Cloud Computing: AWS  
   
 ### You can also find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danielfduque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@danielfd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='40'>](https://stackoverflow.com/users/edit/12213243)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danielfduque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@danielfd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='40'>](https://stackoverflow.com/users/12213243/fx2000)  
 
 <!--
 **fx2000/fx2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
