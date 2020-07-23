@@ -4,6 +4,12 @@ After years of running my fair share of startups, I decided to transition out of
 
 If you want to know more about me, you can check out my (twitter)[https://www.twitter.com/danielfd] where I rant about technology and the occasional superhero movie, or my (LinkedIn)[https://www.linkedin.com/in/danielfduque/] if you feel like getting to know more about my professional journey.
 
+# Tech:  
+* Frontend: HTML, CSS, Javascript, PHP, React
+* Backend: NodeJS, PHP, Express
+* Database: MySQL, MongoDB, DynamoDB
+* Cloud Computing: AWS
+
 <!--
 **fx2000/fx2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
