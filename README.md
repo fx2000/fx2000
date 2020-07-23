@@ -1,11 +1,9 @@
-<img align='right' src='https://i.kym-cdn.com/photos/images/newsfeed/000/294/231/2f9.gif' width='300"'>  
-
 ### Hi there 👋, I'm Daniel  
   
 After years of running my fair share of startups, I decided to transition out of Product Manager/Owner roles and into more tech-oriented roles that allowed me to continue on my coding journey. I am a Full Stack Developer currently working at [niikiis](http://www.niikiis.com) with JavaScript Technologies across the whole stack, specialized in Front End Development using React.
 
 If you want to know more about me, you can check out my [Twitter](https://twitter.com/@danielfd) where I rant about technology and the occasional superhero movie, or my [LinkedIn](https://www.linkedin.com/in/danielfduque/) if you feel like getting to know more about my professional journey.
-
+<img align='right' src='https://i.kym-cdn.com/photos/images/newsfeed/000/294/231/2f9.gif' width='300"'>  
 ### Tech:  
 * Frontend: HTML, CSS, Javascript, PHP, React
 * Backend: NodeJS, PHP, Express
