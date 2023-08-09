@@ -10,8 +10,6 @@ If you want to know more about me, you can check out my [Twitter](https://twitte
 * Database: MySQL, MongoDB, DynamoDB
 * Cloud Computing: AWS  
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=fx2000&show_icons=true&count_private=true)  
-  
 ### Find me on...
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@danielfd)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='40'>](https://stackoverflow.com/users/12213243/fx2000)  
 
