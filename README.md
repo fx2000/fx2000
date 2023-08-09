@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel  
   
-After years of running my fair share of startups, I decided to transition out of Product Manager/Owner roles and into more tech-oriented roles that allowed me to continue on my coding journey. I am a developer currently working with JavaScript Technologies across the whole stack, specialized in Front End Development using React.
+I am a developer working with JavaScript Technologies across the whole stack, specializing in Front-End Development using React.
   
 ### Tech  
 * Frontend: HTML, CSS, Javascript, PHP, React
