@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Daniel  
   
 After years of running my fair share of startups, I decided to transition out of Product Manager/Owner roles and into more tech-oriented roles that allowed me to continue on my coding journey. I am a developer currently working with JavaScript Technologies across the whole stack, specialized in Front End Development using React.
-
-If you want to know more about me, you can check out my [Twitter](https://twitter.com/@danielfd) where I rant about technology and the occasional superhero movie, or my [LinkedIn](https://www.linkedin.com/in/danielfduque/) if you feel like getting to know more about my professional journey.
   
 ### Tech  
 * Frontend: HTML, CSS, Javascript, PHP, React
