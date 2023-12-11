@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Daniel  
   
 With over 15 years in the software development industry, I've held diverse roles ranging from team leader and founder to hands-on software engineer. My core expertise lies in frontend development of web applications using JavaScript technologies, with a deep specialization in React. Additionally, my experience extends to content management systems, particularly with Adobe Experience Manager (AEM) and various other CMS platforms. I'm also well-versed in cloud technologies, notably AWS Lambda, DynamoDB, and AWS Amplify, and have a solid history of developing mobile apps for iOS and Android using React Native and Expo.
-
-As a Technical Leader and Engineering Manager, I oversee a team of engineers who build advanced dynamic web applications based on various CMS, such as AEM and Optimizely, and I am certified as a Professional Scrum Master and Scrum Developer by Scrum.org
   
 ### Tech  
 * Frontend: React, JavaScript, TypeScript, HTML, CSS
