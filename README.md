@@ -2,8 +2,8 @@
 * Frontend: React, JavaScript, TypeScript, HTML, CSS
 * Mobile: React Native, Expo
 * Backend: NodeJS, PHP, Express
-* CMS: AEM, Optimizely, WordPress
-* Database: MySQL, MongoDB, DynamoDB
+* CMS: AEM, Payload, Optimizely, WordPress
+* Database: MySQL, MongoDB, DynamoDB, DocumentDB
 * Cloud Computing: AWS  
 
 
