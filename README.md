@@ -1,10 +1,10 @@
 ### Tech  
-* Frontend: React, JavaScript, TypeScript, HTML, CSS
-* Mobile: React Native, Expo
-* Backend: NodeJS, PHP, Express
-* CMS: AEM, Payload, Optimizely, WordPress
-* Database: MySQL, MongoDB, DynamoDB, DocumentDB
-* Cloud Computing: AWS  
+* Programming Languages: JavaScript, TypeScript, Python, PHP
+* Frontend: React, React Native, Vue, Next.js, Vite, React Query, Redux, Zustand, XState, Tailwind CSS, Storybook
+* Backend: Node.js, Express, FastAPI, REST, GraphQL, PostgreSQL, MySQL, MongoDB
+* Testing: Jest, Jasmine, Playwright, Chromatic
+* CMS: Adobe Experience Manager (AEM), Payload, Optimizely, Sitecore
+* AI: Cursor, Gemini, Claude Code, Retrieval-Augmented Generation (RAG)
 
 
 <!--
